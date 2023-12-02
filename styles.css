@@ -156,6 +156,9 @@ body {
 
 .rodape__logo {
     margin-bottom: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .lista__link a:hover {
